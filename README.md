@@ -1,6 +1,6 @@
 # Simple Web Server Made With Python  
      
-![python logo](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png | width=100)  
+![python logo](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png)  
 This server run in localhost for web test or conection test..  
 
 # Sudo  
